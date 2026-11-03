@@ -1,5 +1,5 @@
 <h1 align="center">I'm Abdalla Ahmed</h1>
-<h3 align="center">A Computer Engineering (Ingenieurinformatik) student at Otto-von-Guericke University Magdeburg, finishing my B.Sc. in December 2026 and already started on my M.Sc. in Computer Science.</h3>
+<h3 align="center">A Computer Engineering (Ingenieurinformatik) student at Otto-von-Guericke University Magdeburg, finishing my B.Sc. in December 2026</h3>
 
 - 💼 Two years as a working student in agile software development at **Siemens Mobility** — C++ platform migration, GitLab CI, test failure analysis
 
@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on my bachelor's thesis: a **machine learning pipeline in Python** that classifies film genres from emotional features of soundtracks
 
-- 🌱 I’m currently learning **Docker, CI/CD and cloud-native tooling** alongside my M.Sc.
-
-- 🔎 Open to **working student and entry-level roles** in backend, DevOps and QA from January 2027
+- 🔎 Open to **entry-level roles** in backend, DevOps and QA from January 2027
 
 - 📫 How to reach me **abdalla.ahmed.01.10.02@gmail.com**
 
